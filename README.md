@@ -30,3 +30,7 @@ Neste desafio, obtive prática com as variáveis, operadores de comparação e  
 ### Desafio 03 - Definindo Nível do Herói
 
 Este exercício foi eficiente para colocar tudo aprendido até o momento e aprimorar com algumas lógicas da qual foram necessárias para entender o conceito de adequação ao ambiente no programa.
+
+### Desafio 04 - Escrevendo as classes de um Jogo
+
+O objetivo desse desafio era a criação de uma classe da qual criaria o Herói com propriedades(nome, idade, tipo(guerreiro, mago, monge, etc)) e adicionaria um método de ataque.
