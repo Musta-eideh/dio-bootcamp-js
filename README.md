@@ -8,7 +8,8 @@ A Potência Tech iFood, acompanhada pelo Dio, é uma formação que aplica ensin
 
  - [Desafio 01 - Git e seus comandos](#desafio-01---git-e-seus-comandos)
  - [Desafio 02 - XP de Heróis](#desafio-02---xp-de-heróis)
- - [Desafio 03](#desafio-03)
+ - [Desafio 03 - Definindo Nível do Herói](#desafio-03)
+ - [Desafio 04 - Escrevendo as classes de um Jogo](#desafio-04---escrevendo-as-classes-de-um-jogo)
 
 
 ## Aprendizados
